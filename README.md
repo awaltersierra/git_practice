@@ -28,19 +28,19 @@
 
 ## HOW CREATE A REPOSITORY ON THE COMMAND LINE
 
-1 echo "# git_practice" >> README.md
-2 git init
-3 git add README.md
-4 git commit -m "first commit"
-5 git branch -M main
-6 git remote add origin https://github.com/awaltersierra/git_practice.git
-7 git push -u origin main
+1. echo "# git_practice" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/awaltersierra/git_practice.git
+7. git push -u origin main
 
 ## HOW PUSH AN EXISTING REPO ON THE COMMAND LINE
 
-1 git remote add origin https://github.com/awaltersierra/git_practice.git
-2 git branch -M main
-3 git push -u origin main
+1. git remote add origin https://github.com/awaltersierra/git_practice.git
+2. git branch -M main
+3. git push -u origin main
 
 ## BRANCHES
 + git branch: Lists all a Git project’s branches.
